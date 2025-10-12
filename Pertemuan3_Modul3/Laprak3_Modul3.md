@@ -350,7 +350,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3](https://github.com/darkiikar/103112430173_Chadafya_Putra-Zulfikar/blob/main/Pertemuan3_Modul3/Output-Unguided3.png)
+![Screenshot Output Unguided 3](https://github.com/darkiikar/103112430173_Chadafya-Putra-Zulfikar/blob/main/Pertemuan3_Modul3/Output-Unguided3.png)
 
 Program ini mendemonstrasikan dua cara penukaran nilai: pertama, menukar elemen tertentu dari dua array dua dimensi 3×3 (A[1][1] dengan B[1][1]) menggunakan fungsi tukarElem, dan kedua, menukar nilai dua variabel (x dan y) menggunakan pointer melalui fungsi tukarPointer
 
